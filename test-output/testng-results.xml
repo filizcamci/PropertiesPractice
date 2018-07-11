@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13176" started-at="2018-07-11T01:54:52Z" finished-at="2018-07-11T01:55:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13176" started-at="2018-07-11T01:54:52Z" finished-at="2018-07-11T01:55:05Z">
+      <class name="propertiesPractice.TestClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:propertiesPractice.TestClass@7cd62f43]" name="setup" is-config="true" duration-ms="1309" started-at="2018-07-11T01:54:52Z" finished-at="2018-07-11T01:54:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:propertiesPractice.TestClass@7cd62f43]" name="beforeMethod" is-config="true" duration-ms="4968" started-at="2018-07-11T01:54:53Z" finished-at="2018-07-11T01:54:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:propertiesPractice.TestClass@7cd62f43]" name="loginTest" duration-ms="6863" started-at="2018-07-11T01:54:58Z" finished-at="2018-07-11T01:55:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- propertiesPractice.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
